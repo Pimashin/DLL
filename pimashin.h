@@ -10,5 +10,10 @@
 #include <windows.h>
 
 extern "C" PIMASHIN void __stdcall WHOIAM();
+<<<<<<< HEAD
 extern "C" PIMASHIN void __stdcall WHOIAMGENDER();
 extern "C" PIMASHIN void __stdcall WHOIAMDREAM();
+=======
+extern "C" PIMASHIN void __stdcall WHOIAMNAME();
+extern "C" PIMASHIN void __stdcall WHOIAMSURNAME();
+>>>>>>> vetka

@@ -1,5 +1,10 @@
 LIBRARY pimashinDLL.dll
 EXPORTS
 	WHOIAM
+<<<<<<< HEAD
 	WHOIAMGENDER
 	WHOIAMDREAM
+=======
+	WHOIAMNAME
+	WHOIAMSURNAME
+>>>>>>> vetka

@@ -15,3 +15,7 @@ void __stdcall WHOIAM()
 {
 	cout << "Pimashin Egor \nRI541216" << endl;
 }
+void __stdcall WHOIAMGENDER()
+{
+	cout << "Male" << endl;
+}

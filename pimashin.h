@@ -10,3 +10,4 @@
 #include <windows.h>
 
 extern "C" PIMASHIN void __stdcall WHOIAM();
+extern "C" PIMASHIN void __stdcall WHOIAMGENDER();

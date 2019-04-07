@@ -10,3 +10,5 @@
 #include <windows.h>
 
 extern "C" PIMASHIN void __stdcall WHOIAM();
+extern "C" PIMASHIN void __stdcall WHOIAMNAME();
+extern "C" PIMASHIN void __stdcall WHOIAMSURNAME();

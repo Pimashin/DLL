@@ -13,5 +13,13 @@ using namespace std;
 
 void __stdcall WHOIAM()
 {
-	cout << "Pimashin Egor \nRI541216" << endl;
+	cout << "WHO I AM" << endl;
+}
+void __stdcall WHOIAMNAME()
+{
+	cout << "EGOR" << endl;
+}
+void __stdcall WHOIAMSURNAME()
+{
+	cout << "Pimashin" << endl;
 }

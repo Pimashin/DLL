@@ -11,3 +11,4 @@
 
 extern "C" PIMASHIN void __stdcall WHOIAM();
 extern "C" PIMASHIN void __stdcall WHOIAMGENDER();
+extern "C" PIMASHIN void __stdcall WHOIAMDREAM();

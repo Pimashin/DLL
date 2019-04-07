@@ -19,3 +19,7 @@ void __stdcall WHOIAMGENDER()
 {
 	cout << "Male" << endl;
 }
+void __stdcall WHOIAMDREAM()
+{
+	cout << "surfing" << endl;
+}
